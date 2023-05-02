@@ -19,7 +19,6 @@ public class datatypes {
 		System.out.println("Double: "+e);
 		System.out.println("Long: "+f);
 		System.out.println("Short: "+g);
-		System.out.println("Byte: "+h);
 		
 	}
    
